@@ -1,3 +1,6 @@
+### Architecture of GRAS usage
+![TEXT_GUARD](assets/img5.png)
+
 ### How to run GRAS (Guard Rails as Service)
 
 - pull the code from 
