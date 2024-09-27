@@ -1,0 +1,7 @@
+transformers[torch]==4.45.0
+accelerate==0.34.2
+pydantic==2.9.2
+python-dotenv==1.0.1
+huggingface_hub==0.25.1
+pillow==10.4.0
+litserve==0.2.2
